@@ -65,7 +65,7 @@ const CTA = () => {
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12 text-sm text-gray-500">
             <div className="flex items-center gap-2 hover:text-blue-400 transition-colors cursor-default">
               <Mail size={16} />
-              <span>contact@ivisha.com</span>
+              <span>contact@ivishainfotech.in</span>
             </div>
             <div className="hidden md:block w-1.5 h-1.5 rounded-full bg-gray-800"></div>
             <div className="flex items-center gap-2 hover:text-blue-400 transition-colors cursor-default">
